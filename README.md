@@ -6,7 +6,7 @@
   <p>
   Hi there<br>
   I'm a Skilled Professional Developer.<br><br>
-  I have been working in web and mobile development for 10+ years.<br><br>
+  I have been working in web and mobile development for 7+ years.<br><br>
   My projects include building UI for web and mobile, Web 3D animation & AR/VR, backend & 3rd party API integration, web scraping & crawling, and more.<br><br>
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
