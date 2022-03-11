@@ -10,7 +10,7 @@
   My projects include building UI for web and mobile, Web 3D animation & AR/VR, backend & 3rd party API integration, web scraping & crawling, and more.<br><br>
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
   <p>
-  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png" width="17"> Passionate web developer with over 5 years of experience.Over the past 5+ years, I has gained in-depth knowledge in Software Development and is an expert in ReactJS.</p>
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png" width="18"> Passionate web developer with over 5 years of experience.Over the past 5+ years, I has gained in-depth knowledge in Software Development and is an expert in ReactJS.</p>
   <p>an experienced Frontend Developer, with a proven track record in building scalable web mobile and desktop Single Page Applications (SPAs) using modern JavaScript technologies</p>
 </p>
 <p align="center">
