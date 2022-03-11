@@ -9,6 +9,9 @@
   I have been working in web and mobile development for 7+ years.<br><br>
   My projects include building UI for web and mobile, Web 3D animation & AR/VR, backend & 3rd party API integration, web scraping & crawling, and more.<br><br>
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
+  <p>
+  Passionate web developer with over 12 years of experience.Over the past 10+ years, Marc has gained in-depth knowledge in Software Development and is an expert in ReactJS.</p>
+  <p>an experienced Frontend Developer, with a proven track record in building scalable web mobile and desktop Single Page Applications (SPAs) using modern JavaScript technologies</p>
 </p>
 <p align="center">
   <a href="https://github.com/perfectdev000"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
