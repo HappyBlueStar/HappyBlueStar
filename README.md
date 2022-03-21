@@ -4,7 +4,7 @@
     <img align="right" width="500" src="https://github.com/HappyBlueStar/developmentgifimage/blob/master/software.gif" />
   </p>
   <p>
-  Hi there<br>
+  Hi there "I'M NIKOLA K"<br>
   I'm a Skilled Professional Developer.<br><br>
   I have been working in web and mobile development for 7+ years.<br><br>
   My projects include building UI for web and mobile, Web 3D animation & AR/VR, backend & 3rd party API integration, web scraping & crawling, and more.<br><br>
